@@ -1,7 +1,9 @@
 img {
   width: 162px;
 }
-
+/* #biggify {
+  width: 300px;
+} */
 #make-me-a-row {
   display: flex;
   align-items: flex-start;
